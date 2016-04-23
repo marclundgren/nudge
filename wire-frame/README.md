@@ -2,22 +2,22 @@
 
 ## Routes
 
-init
+- [ ] init
 
-&nbsp;&nbsp; add a periodic time slot
+- [ ] &nbsp;&nbsp; add a periodic time slot
 
-home
+- [ ] home
 
-&nbsp;&nbsp; tasks
+- [ ] &nbsp;&nbsp; tasks
 
-&nbsp;&nbsp;&nbsp;&nbsp; task details
+- [ ] &nbsp;&nbsp;&nbsp;&nbsp; task details
 
-&nbsp;&nbsp;&nbsp;&nbsp; edit
+- [ ] &nbsp;&nbsp;&nbsp;&nbsp; edit
 task (includes delete)
 
-&nbsp;&nbsp;&nbsp;&nbsp; add
+- [ ] &nbsp;&nbsp;&nbsp;&nbsp; add
 task
 
-&nbsp;&nbsp; settings
+- [ ] &nbsp;&nbsp; settings
 
-&nbsp;&nbsp;&nbsp;&nbsp; periodic task time slots (need a better name)
+- [ ] &nbsp;&nbsp;&nbsp;&nbsp; periodic task time slots (need a better name)
